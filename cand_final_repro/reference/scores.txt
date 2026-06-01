@@ -1,0 +1,16 @@
+Score: 0.522606
+Cls_F1: 0.655178
+Cls_CCC: 0.566412
+Cls_Kappa: 0.346229
+Binary_ACC: 0.695652
+Binary_MacroF1: 0.624709
+Binary_Kappa: 0.251163
+Binary_CCC: 0.566412
+Binary_RMSE: 0.682892
+Binary_MAE: 0.590921
+Ternary_ACC: 0.739130
+Ternary_MacroF1: 0.685648
+Ternary_Kappa: 0.441296
+Ternary_CCC: 0.566412
+Ternary_RMSE: 0.682892
+Ternary_MAE: 0.590921
